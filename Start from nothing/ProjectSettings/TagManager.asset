@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Inventory
+  - InventoryPicture
+  - Lightning
+  - PauseMenu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Lightning
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2034929321
+    locked: 0
+  - name: BackgroundProp
+    uniqueID: 3542297135
+    locked: 0
+  - name: ForegroundProp
+    uniqueID: 4058098373
+    locked: 0
+  - name: Player
+    uniqueID: 3349166533
+    locked: 0
+  - name: Lightning
+    uniqueID: 1032436095
+    locked: 0
+  - name: Textboxes
+    uniqueID: 1214063143
+    locked: 0
+  - name: Text
+    uniqueID: 1086055547
+    locked: 0
